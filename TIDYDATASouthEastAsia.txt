@@ -1,0 +1,11 @@
+"Country/Region"	"Confirmed"	"Deaths"	"Recovered"	"Active"	"New cases"	"New deaths"	"New recovered"	"Deaths / 100 Cases"	"Recovered / 100 Cases"	"Deaths / 100 Recovered"	"Confirmed last week"	"1 week change"	"1 week % increase"	"Eastern Mediterranean Dummy"	"Europe Dummy"	"Africa Dummy"	"Americas Dummy"	"Western Pacific Dummy"	"South-East Asia Dummy"
+"1"	"Bangladesh"	226225	2965	125683	97577	2772	37	1801	1.31	55.56	"2.36"	207453	18772	9.05	NA	NA	NA	NA	NA	1
+"2"	"Bhutan"	99	0	86	13	4	0	1	0	86.87	"0"	90	9	10	NA	NA	NA	NA	NA	1
+"3"	"Burma"	350	6	292	52	0	0	2	1.71	83.43	"2.0499999999999998"	341	9	2.64	NA	NA	NA	NA	NA	1
+"4"	"India"	1480073	33408	951166	495499	44457	637	33598	2.26	64.26	"3.51"	1155338	324735	28.11	NA	NA	NA	NA	NA	1
+"5"	"Indonesia"	100303	4838	58173	37292	1525	57	1518	4.82	58	"8.32"	88214	12089	13.7	NA	NA	NA	NA	NA	1
+"6"	"Maldives"	3369	15	2547	807	67	0	19	0.45	75.6	"0.59"	2999	370	12.34	NA	NA	NA	NA	NA	1
+"7"	"Nepal"	18752	48	13754	4950	139	3	626	0.26	73.35	"0.35"	17844	908	5.09	NA	NA	NA	NA	NA	1
+"8"	"Sri Lanka"	2805	11	2121	673	23	0	15	0.39	75.61	"0.52"	2730	75	2.75	NA	NA	NA	NA	NA	1
+"9"	"Thailand"	3297	58	3111	128	6	0	2	1.76	94.36	"1.86"	3250	47	1.45	NA	NA	NA	NA	NA	1
+"10"	"Timor-Leste"	24	0	0	24	0	0	0	0	0	"0"	24	0	0	NA	NA	NA	NA	NA	1

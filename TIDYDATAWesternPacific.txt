@@ -1,0 +1,17 @@
+"Country/Region"	"Confirmed"	"Deaths"	"Recovered"	"Active"	"New cases"	"New deaths"	"New recovered"	"Deaths / 100 Cases"	"Recovered / 100 Cases"	"Deaths / 100 Recovered"	"Confirmed last week"	"1 week change"	"1 week % increase"	"Eastern Mediterranean Dummy"	"Europe Dummy"	"Africa Dummy"	"Americas Dummy"	"Western Pacific Dummy"	"South-East Asia Dummy"
+"1"	"Australia"	15303	167	9311	5825	368	6	137	1.09	60.84	"1.79"	12428	2875	23.13	NA	NA	NA	NA	1	NA
+"2"	"Brunei"	141	3	138	0	0	0	0	2.13	97.87	"2.17"	141	0	0	NA	NA	NA	NA	1	NA
+"3"	"Cambodia"	226	0	147	79	1	0	4	0	65.04	"0"	171	55	32.16	NA	NA	NA	NA	1	NA
+"4"	"China"	86783	4656	78869	3258	213	4	7	5.37	90.88	"5.9"	85622	1161	1.36	NA	NA	NA	NA	1	NA
+"5"	"Fiji"	27	0	18	9	0	0	0	0	66.67	"0"	27	0	0	NA	NA	NA	NA	1	NA
+"6"	"Japan"	31142	998	21970	8174	594	0	364	3.2	70.55	"4.54"	25706	5436	21.15	NA	NA	NA	NA	1	NA
+"7"	"Laos"	20	0	19	1	0	0	0	0	95	"0"	19	1	5.26	NA	NA	NA	NA	1	NA
+"8"	"Malaysia"	8904	124	8601	179	7	0	1	1.39	96.6	"1.44"	8800	104	1.18	NA	NA	NA	NA	1	NA
+"9"	"Mongolia"	289	0	222	67	1	0	4	0	76.82	"0"	287	2	0.7	NA	NA	NA	NA	1	NA
+"10"	"New Zealand"	1557	22	1514	21	1	0	1	1.41	97.24	"1.45"	1555	2	0.13	NA	NA	NA	NA	1	NA
+"11"	"Papua New Guinea"	62	0	11	51	0	0	0	0	17.74	"0"	19	43	226.32	NA	NA	NA	NA	1	NA
+"12"	"Philippines"	82040	1945	26446	53649	1592	13	336	2.37	32.24	"7.35"	68898	13142	19.07	NA	NA	NA	NA	1	NA
+"13"	"Singapore"	50838	27	45692	5119	469	0	171	0.05	89.88	"0.06"	48035	2803	5.84	NA	NA	NA	NA	1	NA
+"14"	"South Korea"	14203	300	13007	896	28	1	102	2.11	91.58	"2.31"	13816	387	2.8	NA	NA	NA	NA	1	NA
+"15"	"Taiwan*"	462	7	440	15	4	0	0	1.52	95.24	"1.59"	451	11	2.44	NA	NA	NA	NA	1	NA
+"16"	"Vietnam"	431	0	365	66	11	0	0	0	84.69	"0"	384	47	12.24	NA	NA	NA	NA	1	NA
